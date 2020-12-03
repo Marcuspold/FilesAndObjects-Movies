@@ -16,6 +16,7 @@ namespace RedTotalFromShoppingList
             {
                 name = _name;
                 price = _price;
+                Console.WriteLine($"Item {name} created ");
             }
             public string Name { get { return name; } }
 
@@ -35,9 +36,16 @@ namespace RedTotalFromShoppingList
 
             List<string> linesFromFile = File.ReadAllLines(Path.Combine(filePath, fileName)).ToList();
 
-            foreach(string line in linesFromFile)
+            foreach (string line in linesFromFile)
             {
-                Console.WriteLine(line);
+                string[] temparray = line.Split(new char[] { '/' }, StringSplitOptions.RemoveEmptyEntries);
+                Item newItem = new Item(temparray[0], Int32.Parse(temparray[1]));
+                shoppingItems.Add(newItem); 
+            }
+            Console.WriteLine($"YOUR SHOPPING CART IS FULL FATTO >:(");
+            foreach(Item item in shoppingItems)
+            {
+                Console.WriteLine($"Item: {item.Name}; Price: {item.Price}");
             }
         }
     } 

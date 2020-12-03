@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\bin\Debug\netcoreapp3.1\RedTotalFromShoppingList.exe
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\bin\Debug\netcoreapp3.1\RedTotalFromShoppingList.deps.json
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\bin\Debug\netcoreapp3.1\RedTotalFromShoppingList.runtimeconfig.json
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\bin\Debug\netcoreapp3.1\RedTotalFromShoppingList.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\bin\Debug\netcoreapp3.1\RedTotalFromShoppingList.dll
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\bin\Debug\netcoreapp3.1\RedTotalFromShoppingList.pdb
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\obj\Debug\netcoreapp3.1\RedTotalFromShoppingList.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\obj\Debug\netcoreapp3.1\RedTotalFromShoppingList.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\obj\Debug\netcoreapp3.1\RedTotalFromShoppingList.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\obj\Debug\netcoreapp3.1\RedTotalFromShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\obj\Debug\netcoreapp3.1\RedTotalFromShoppingList.dll
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\obj\Debug\netcoreapp3.1\RedTotalFromShoppingList.pdb
+C:\Users\opilane\source\repos\FilesAndObjects\RedTotalFromShoppingList\obj\Debug\netcoreapp3.1\RedTotalFromShoppingList.genruntimeconfig.cache
